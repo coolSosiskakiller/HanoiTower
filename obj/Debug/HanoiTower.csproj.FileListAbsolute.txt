@@ -28,3 +28,13 @@ C:\GitHub\HanoiTower\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
 C:\GitHub\HanoiTower\obj\Debug\HanoiTower.exe
 C:\GitHub\HanoiTower\obj\Debug\HanoiTower.pdb
 C:\GitHub\HanoiTower\obj\Debug\HanoiTower.GameForm.resources
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\bin\Debug\HanoiTower.exe.config
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\bin\Debug\HanoiTower.exe
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\bin\Debug\HanoiTower.pdb
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.csproj.AssemblyReference.cache
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.GameForm.resources
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.Properties.Resources.resources
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.csproj.GenerateResource.cache
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.exe
+C:\Users\215у-pc20\Downloads\HanoiTower-main (4)\HanoiTower-main\obj\Debug\HanoiTower.pdb

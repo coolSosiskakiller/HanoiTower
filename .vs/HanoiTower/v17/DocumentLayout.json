@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\HanoiTower\\",
+  "WorkspaceRootPath": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|c:\\github\\hanoitower\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|c:\\github\\hanoitower\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|c:\\github\\hanoitower\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|c:\\github\\hanoitower\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|c:\\users\\215\u0443-pc20\\downloads\\hanoitower-main (4)\\hanoitower-main\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|c:\\github\\hanoitower\\serializedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\serializedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:serializedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D74D5F5-B1C1-467C-BE2A-507C19856665}|HanoiTower.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,64 +33,67 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\GitHub\\HanoiTower\\Game.cs",
-              "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "C:\\GitHub\\HanoiTower\\Game.cs",
-              "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:05:19.347Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Draw.cs",
-              "DocumentMoniker": "C:\\GitHub\\HanoiTower\\Draw.cs",
-              "RelativeDocumentMoniker": "Draw.cs",
-              "ToolTip": "C:\\GitHub\\HanoiTower\\Draw.cs",
-              "RelativeToolTip": "Draw.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:04:23.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SerializedObject.cs",
-              "DocumentMoniker": "C:\\GitHub\\HanoiTower\\SerializedObject.cs",
-              "RelativeDocumentMoniker": "SerializedObject.cs",
-              "ToolTip": "C:\\GitHub\\HanoiTower\\SerializedObject.cs",
-              "RelativeToolTip": "SerializedObject.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIA7wB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T08:55:34.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameForm.cs",
-              "DocumentMoniker": "C:\\GitHub\\HanoiTower\\GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\GameForm.cs",
               "RelativeDocumentMoniker": "GameForm.cs",
-              "ToolTip": "C:\\GitHub\\HanoiTower\\GameForm.cs",
+              "ToolTip": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\GameForm.cs",
               "RelativeToolTip": "GameForm.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwCUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T17:28:56.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:05:19.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Draw.cs",
+              "DocumentMoniker": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\Draw.cs",
+              "RelativeDocumentMoniker": "Draw.cs",
+              "ToolTip": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\Draw.cs*",
+              "RelativeToolTip": "Draw.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:04:23.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerializedObject.cs",
+              "DocumentMoniker": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\SerializedObject.cs",
+              "RelativeDocumentMoniker": "SerializedObject.cs",
+              "ToolTip": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\SerializedObject.cs",
+              "RelativeToolTip": "SerializedObject.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:55:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\GitHub\\HanoiTower\\GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\GameForm.cs",
               "RelativeDocumentMoniker": "GameForm.cs",
-              "ToolTip": "C:\\GitHub\\HanoiTower\\GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\215\u0443-pc20\\Downloads\\HanoiTower-main (4)\\HanoiTower-main\\GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T17:25:00.031Z",
